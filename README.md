@@ -1,6 +1,6 @@
 # About me
 
-I am a student a degree in Computer Science and Econometrics at AGH University of Science and Technology in Krakow.
+I am a student pursuing a degree in Computer Science and Econometrics at AGH University of Science and Technology in Krakow.
 
 I am currently seeking an internship opportunity to gain my first professional experience and to utilize my analytical skills and creative problem-solving approach.
 
